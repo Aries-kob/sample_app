@@ -13,6 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ 
 * {
   margin: 0;
   padding: 0;
@@ -20,8 +21,9 @@
 }
 
 header, h1, nav, .list-comment {
-  font-family: 'Kaushan', cursive, sans-serif;
+  font-family: 'Kaushan Script', cursive, sans-serif;
 }
+
 
 header {
     width: 90%;
